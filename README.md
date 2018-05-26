@@ -6,6 +6,8 @@ It can for instance place buy/sell orders for you.
 
 [![Build Status](https://travis-ci.org/tarraschk/bittrex_ruby.svg?branch=master)](https://travis-ci.org/tarraschk/bittrex_ruby)
 [![Gem Version](https://badge.fury.io/rb/bittrex_ruby.svg)](https://badge.fury.io/rb/bittrex_ruby)
+[![Maintainability](https://api.codeclimate.com/v1/badges/828cbf37f233f839b0e9/maintainability)](https://codeclimate.com/github/tarraschk/bittrex_ruby/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/828cbf37f233f839b0e9/test_coverage)](https://codeclimate.com/github/tarraschk/bittrex_ruby/test_coverage)
 
 ## Installation
 
