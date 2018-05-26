@@ -4,6 +4,8 @@ This gem provides a wrapper for Bittrex.com Public/Account/Market APIs.
 
 It can for instance place buy/sell orders for you.
 
+[![Build Status](https://travis-ci.org/tarraschk/bittrex_ruby.svg?branch=master)](https://travis-ci.org/tarraschk/bittrex_ruby)
+
 ## Installation
 
 Add this line to your application's Gemfile:
