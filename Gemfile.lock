@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bittrex_ruby (1.0.0)
+    bittrex_ruby (1.0.1)
       addressable
       json
       openssl
