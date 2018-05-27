@@ -6,6 +6,7 @@ require 'bittrex_ruby/version'
 Gem::Specification.new do |spec|
   spec.name = 'bittrex_ruby'
   spec.version = BittrexRuby::VERSION
+  spec.licenses = ['MIT']
   spec.authors = ['Maxime Alay-Eddine']
   spec.email = ['maxime.alayeddine@gmail.com']
 
